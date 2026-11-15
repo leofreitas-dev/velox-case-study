@@ -6,7 +6,7 @@ Velox is a Brazilian SaaS where AI agents and rule robots do the daily work of a
 
 This repository is a case study. It has no source code. **Velox is for sale as a whole**: the product, the website, the newsroom, the Instagram engine, the automations and the brand. See [Velox is for sale](#velox-is-for-sale).
 
-<!-- VIDEO: user-attachments link goes here -->
+https://github.com/user-attachments/assets/196f4c64-e14e-4cb2-bc5e-66784c5c7fe4
 
 ![The seller's command center](prints/19-central.png)
 

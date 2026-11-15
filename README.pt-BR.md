@@ -6,7 +6,7 @@ A Velox é um SaaS brasileiro em que agentes de IA e robôs de regra fazem o tra
 
 Este repositório é um estudo de caso. Ele não tem código-fonte. **A Velox está à venda por inteiro**: o produto, o site, o jornal, o motor do Instagram, as automações e a marca. Veja [A Velox está à venda](#a-velox-está-à-venda).
 
-<!-- VIDEO: user-attachments link goes here -->
+https://github.com/user-attachments/assets/196f4c64-e14e-4cb2-bc5e-66784c5c7fe4
 
 ![A Central do vendedor](prints/19-central.png)
 
